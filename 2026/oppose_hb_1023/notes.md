@@ -4,6 +4,14 @@
 
 https://gc.nh.gov/bill_status/billinfo.aspx?id=1568&inflect=2
 
+what it does:
+
+allows commercial nail salons, delis, etc in every residential neighborhood, with no ability for towns to prevent it, and no ability for towns to require off street parking.
+
+![Before](./before.jpeg)
+
+![After](./after.png)
+
 # The sponsors
 
 - Ross.Berry@gc.nh.gov
