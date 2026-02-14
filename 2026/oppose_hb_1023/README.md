@@ -8,8 +8,7 @@ what it does:
 
 allows commercial nail salons, delis, etc in every residential neighborhood, with no ability for towns to prevent it, and no ability for towns to require off street parking.
 
-NH after HB 1023:
-<img src="./after.png" style="width:500px;"\>
+![After](./after.png)
 
 # The sponsors
 
