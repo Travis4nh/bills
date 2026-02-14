@@ -6,9 +6,9 @@ https://gc.nh.gov/bill_status/billinfo.aspx?id=1568&inflect=2
 
 # The sponsors
 
-Ross.Berry@gc.nh.gov
-Joe.Sweeney@gc.nh.gov
-Joe.Alexander@gc.nh.gov
+- Ross.Berry@gc.nh.gov
+- Joe.Sweeney@gc.nh.gov
+- Joe.Alexander@gc.nh.gov
 
 
 # The committee
@@ -17,29 +17,24 @@ Commerce and Consumer Affairs
 
 https://gc.nh.gov/house/committees/committeedetails.aspx?id=29
 
-jbhunt@prodigy.net
-John.Potucek@gc.nh.gov
-Lisacmpost@gmail.com
-
-
-Jason.Osborne@gc.nh.gov
-Keith.Ammon@gc.nh.gov
-Susan.Porcelli@gc.nh.gov
-Lilli.Walsh@gc.nh.gov
-
-Dick.Thackston@gc.nh.gov
-Julie.Miles@gc.nh.gov
-Adam.Presa@gc.nh.gov
-Anita.Burroughs@gc.nh.gov
-
-Christopher.Herbert@gc.nh.gov
-Chris.McAleer@gc.nh.gov
-Carry.Spier@gc.nh.gov
-Jared.Sullivan@gc.nh.gov
-
-Manoj.Chourasia@gc.nh.gov
-Santosh.Salvi@gc.nh.gov
-Billie.Butler@gc.nh.gov
+- jbhunt@prodigy.net
+- John.Potucek@gc.nh.gov
+- Lisacmpost@gmail.com
+- Jason.Osborne@gc.nh.gov
+- Keith.Ammon@gc.nh.gov
+- Susan.Porcelli@gc.nh.gov
+- Lilli.Walsh@gc.nh.gov
+- Dick.Thackston@gc.nh.gov
+- Julie.Miles@gc.nh.gov
+- Adam.Presa@gc.nh.gov
+- Anita.Burroughs@gc.nh.gov
+- Christopher.Herbert@gc.nh.gov
+- Chris.McAleer@gc.nh.gov
+- Carry.Spier@gc.nh.gov
+- Jared.Sullivan@gc.nh.gov
+- Manoj.Chourasia@gc.nh.gov
+- Santosh.Salvi@gc.nh.gov
+- Billie.Butler@gc.nh.gov
 
 
 # Talking points
