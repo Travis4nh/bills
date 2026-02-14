@@ -6,7 +6,7 @@ https://gc.nh.gov/bill_status/billinfo.aspx?id=1568&inflect=2
 
 what it does:
 
-allows commercial nail salons, delis, etc in every residential neighborhood, with no ability for towns to prevent it, and no ability for towns to require off street parking.
+Allows commercial nail salons, delis, etc in every residential neighborhood, allow them to open at 6am and stay open until 10pm, and allow them to depend 100% on on-street parking, with no ability for towns to prevent, moderate it, set parking requirements, or set different hours.
 
 ![After](./after.png)
 
