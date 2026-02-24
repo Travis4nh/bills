@@ -1,0 +1,202 @@
+"flagCode","country","AverageIQViaInternationalIQTest_2025","AverageIQViaLynnBecker_2019"
+"HK","Hong Kong",107.73,105.37
+"KR","South Korea",106.97,102.35
+"CN","China",106.48,104.1
+"MO","Macau",106.32,99.82
+"JP","Japan",106.3,106.48
+"TW","Taiwan",105.8,106.47
+"IR","Iran",104.8,80.01
+"AU","Australia",104.45,99.24
+"RU","Russia",103.78,96.29
+"SG","Singapore",103.56,105.89
+"MN","Mongolia",102.61,91.03
+"NZ","New Zealand",102.35,98.57
+"VN","Vietnam",102.26,89.53
+"ES","Spain",102.24,93.9
+"CY","Cyprus",102.12,93.39
+"CA","Canada",102.09,99.52
+"GB","United Kingdom",101.57,99.12
+"LK","Sri Lanka",101.22,86.62
+"SI","Slovenia",101.15,98.6
+"BY","Belarus",101.05,101.6
+"US","United States",101.04,97.43
+"AL","Albania",101,81.75
+"CH","Switzerland",100.84,99.24
+"GE","Georgia",100.35,84.5
+"IT","Italy",100.33,94.23
+"NL","Netherlands",100.27,100.74
+"PE","Peru",100.2,81.44
+"HU","Hungary",100.15,99.24
+"AM","Armenia",100.13,88.82
+"FR","France",100.12,96.69
+"FI","Finland",99.97,101.2
+"PT","Portugal",99.95,92.77
+"LT","Lithuania",99.95,95.89
+"TH","Thailand",99.94,88.87
+"RS","Serbia",99.83,89.6
+"AT","Austria",99.8,98.38
+"BE","Belgium",99.74,97.49
+"MT","Malta",99.68,91.27
+"GR","Greece",99.55,90.77
+"CZ","Czechia",99.36,94.92
+"DE","Germany",99.32,100.74
+"HR","Croatia",99.32,95.75
+"PL","Poland",99.14,96.35
+"LB","Lebanon",99.13,81.7
+"EE","Estonia",99.08,100.72
+"LV","Latvia",99.01,94.79
+"RO","Romania",98.88,86.88
+"MK","North Macedonia",98.88,81.91
+"SK","Slovakia",98.87,96.32
+"LU","Luxembourg",98.75,99.87
+"IL","Israel",98.57,92.43
+"MY","Malaysia",98.51,87.58
+"IN","India",98.44,76.24
+"ME","Montenegro",98.43,85.78
+"SY","Syria",98.41,74.41
+"NO","Norway",98.31,97.13
+"MM","Myanmar",98.28,91.18
+"SE","Sweden",98.22,97
+"IE","Ireland",98.22,95.13
+"AZ","Azerbaijan",98.03,84.81
+"QA","Qatar",97.94,80.78
+"DK","Denmark",97.68,97.83
+"DZ","Algeria",97.53,76
+"TN","Tunisia",97.46,79.22
+"AE","United Arab Emirates",97.39,82.05
+"BD","Bangladesh",97.32,74.33
+"NP","Nepal",97.31,42.99
+"IS","Iceland",97.25,98.26
+"MA","Morocco",97.24,67.03
+"FO","Faroe Islands",97.23,
+"BA","Bosnia and Herzegovina",97.13,88.54
+"AR","Argentina",97.11,86.63
+"TR","Turkey",97,86.8
+"PK","Pakistan",96.93,80
+"MD","Moldova",96.85,89.98
+"EG","Egypt",96.74,76.32
+"UZ","Uzbekistan",96.54,89.01
+"BG","Bulgaria",96.54,90.99
+"BN","Brunei",96.54,87.58
+"CU","Cuba",96.4,83.9
+"CL","Chile",96.34,87.89
+"UY","Uruguay",96.09,87.59
+"ET","Ethiopia",96,68.42
+"KZ","Kazakhstan",95.92,88.89
+"JO","Jordan",95.73,80.7
+"MV","Maldives",95.71,80.54
+"PH","Philippines",95.68,81.64
+"UA","Ukraine",95.66,90.07
+"BO","Bolivia",95.56,76.53
+"EC","Ecuador",95.45,78.26
+"BR","Brazil",95.44,83.38
+"TT","Trinidad and Tobago",94.81,
+"LY","Libya",94.76,80.92
+"MU","Mauritius",94.66,86.56
+"CO","Colombia",94.62,83.13
+"KG","Kyrgyzstan",94.48,79.09
+"BH","Bahrain",94.25,83.6
+"SA","Saudi Arabia",94.07,76.36
+"CR","Costa Rica",93.8,88.34
+"MX","Mexico",93.64,87.73
+"ZA","South Africa",93.63,68.87
+"IQ","Iraq",93.62,89.28
+"YE","Yemen",93.43,62.86
+"TJ","Tajikistan",93.39,87.71
+"RE","Reunion",93.25,
+"KW","Kuwait",93.13,78.64
+"KH","Cambodia",93.12,99.75
+"ZM","Zambia",93.05,68.43
+"PR","Puerto Rico",93.01,81.99
+"LA","Laos",92.97,80.99
+"PS","Palestine",92.94,77.69
+"NG","Nigeria",92.76,67.76
+"VE","Venezuela",92.61,82.99
+"PY","Paraguay",92.38,84.04
+"SN","Senegal",92.26,77.37
+"OM","Oman",92.18,78.7
+"JM","Jamaica",92,75.08
+"BJ","Benin",91.96,69.71
+"KE","Kenya",91.69,75.2
+"PA","Panama",91.65,79
+"ZW","Zimbabwe",91.64,74.01
+"GH","Ghana",91.4,58.16
+"GT","Guatemala",91.35,47.72
+"CM","Cameroon",90.59,67.76
+"HN","Honduras",90.41,62.16
+"CI","Ivory Coast",90.37,58.16
+"MZ","Mozambique",90.33,72.5
+"NA","Namibia",90.29,66.19
+"DO","Dominican Republic",90.11,82.05
+"SV","El Salvador",90,69.63
+"ID","Indonesia",89.96,78.49
+"BW","Botswana",89.72,69.45
+"TZ","Tanzania",89.57,74.95
+"AF","Afghanistan",89.31,82.12
+"CD","DR Congo",88.6,64.92
+"UG","Uganda",88.49,76.42
+"GA","Gabon",88.35,62.97
+"AO","Angola",87.89,75.1
+"NI","Nicaragua",87.75,52.69
+"RW","Rwanda",86.9,69.95
+"TL","Timor-Leste",86.7,
+"SO","Somalia",83.84,67.67
+"SD","Sudan",,78.87
+"MG","Madagascar",,76.79
+"NE","Niger",,70.82
+"KP","North Korea",,98.82
+"ML","Mali",,59.76
+"BF","Burkina Faso",,73.8
+"MW","Malawi",,69.7
+"TD","Chad",,78.87
+"GN","Guinea",,53.48
+"BI","Burundi",,72.09
+"SS","South Sudan",,58.61
+"HT","Haiti",,82.1
+"PG","Papua New Guinea",,78.49
+"TG","Togo",,59.83
+"SL","Sierra Leone",,45.07
+"TM","Turkmenistan",,85.86
+"CG","Republic of the Congo",,62.97
+"LR","Liberia",,45.07
+"CF","Central African Republic",,62.55
+"MR","Mauritania",,59.76
+"ER","Eritrea",,68.77
+"GM","Gambia",,52.68
+"LS","Lesotho",,68.87
+"SZ","Eswatini",,68.87
+"DJ","Djibouti",,68.41
+"FJ","Fiji",,83.96
+"KM","Comoros",,77.07
+"SB","Solomon Islands",,83.96
+"GY","Guyana",,83.23
+"BT","Bhutan",,87.94
+"SR","Suriname",,90.29
+"CV","Cape Verde",,52.5
+"BZ","Belize",,62.55
+"BS","Bahamas",,86.99
+"VU","Vanuatu",,93.92
+"NC","New Caledonia",,93.92
+"BB","Barbados",,91.6
+"ST","Sao Tome and Principe",,65.22
+"WS","Samoa",,83.96
+"LC","Saint Lucia",,73.68
+"KI","Kiribati",,83.96
+"SC","Seychelles",,78.76
+"GD","Grenada",,79.34
+"FM","Micronesia",,83.96
+"TO","Tonga",,83.96
+"VC","Saint Vincent and the Grenadines",,63.42
+"AG","Antigua and Barbuda",,70.48
+"AD","Andorra",,95.2
+"KY","Cayman Islands",,82.24
+"DM","Dominica",,66.03
+"BM","Bermuda",,93.48
+"GL","Greenland",,98.89
+"TC","Turks and Caicos Islands",,84.29
+"KN","Saint Kitts and Nevis",,70.48
+"MP","Northern Mariana Islands",,81.36
+"LI","Liechtenstein",,101.07
+"VG","British Virgin Islands",,76.69
+"MH","Marshall Islands",,83.96
+"CK","Cook Islands",,83.96
